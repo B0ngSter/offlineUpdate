@@ -1,0 +1,2 @@
+# offlineUpdate
+auto updater test
